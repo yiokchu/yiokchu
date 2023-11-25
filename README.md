@@ -8,7 +8,6 @@ I am interested in App Development, Web Development, Software Development, and F
 
 * 🌍  I'm based in New York Metropolitan Area
 * 🖥️  See my portfolio at [My portfolio](http://yiokling.netlify.app)
-* ✉️  You can contact me at [yc94652n@pace.edu](mailto:yc94652n@pace.edu)
 * 🧠  I'm learning Databases
 * 🤝  I'm open to collaborating on Amazing projects
 
